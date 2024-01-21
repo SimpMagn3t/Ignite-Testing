@@ -1,0 +1,6 @@
+# flow.yaml
+
+appId: com.google.android.apps.maps
+---
+- launchApp
+- tapOn: "search"
